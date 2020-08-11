@@ -70,7 +70,7 @@ section[epub|type~="dedication"] > *{
 	}
 
 	section[epub|type~="dedication"] > footer{
-	margin-top: 1em;
-	margin-left: auto;
+		margin-top: 1em;
+		margin-left: auto;
 	}
 }
