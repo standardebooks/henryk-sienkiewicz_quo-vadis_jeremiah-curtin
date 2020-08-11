@@ -64,13 +64,17 @@ section[epub|type~="dedication"] > *{
 	}
 
 	section[epub|type~="dedication"] > *{
-		margin: 0;
 		font-variant: small-caps;
 		line-height: 180%;
+		margin: 0;
 	}
 
 	section[epub|type~="dedication"] > footer{
-		margin-top: 1em;
 		margin-left: auto;
+		margin-top: 1em;
+	}
+
+	section[epub|type~="dedication"] p[epub|type~="recipient"]{
+		font-size: 1.25em;
 	}
 }
