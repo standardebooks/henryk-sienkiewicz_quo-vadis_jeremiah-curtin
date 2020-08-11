@@ -6,6 +6,11 @@ body [xml|lang]{
 	font-style: italic;
 }
 
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
 [epub|type~="z3998:letter"]{
 	margin-left: 0;
 	margin-right: 0;
@@ -43,6 +48,10 @@ section[epub|type~="dedication"] > *{
 	max-width: 80%;
 }
 
+.signature{
+	font-variant: small-caps;
+}
+
 @supports(display: flex){
 	section[epub|type~="dedication"]{
 		align-items: center;
@@ -56,5 +65,12 @@ section[epub|type~="dedication"] > *{
 
 	section[epub|type~="dedication"] > *{
 		margin: 0;
+		font-variant: small-caps;
+		line-height: 180%;
+	}
+
+	section[epub|type~="dedication"] > footer{
+	margin-top: 1em;
+	margin-left: auto;
 	}
 }
