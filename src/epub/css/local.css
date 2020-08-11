@@ -31,9 +31,9 @@ body [xml|lang]{
 }
 
 section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
-    display: block;
-    font-size: .75em;
-    font-weight: normal;
+	display: block;
+	font-size: .75em;
+	font-weight: normal;
 }
 
 section[epub|type~="dedication"] > *{
