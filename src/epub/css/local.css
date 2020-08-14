@@ -48,8 +48,21 @@ section[epub|type~="dedication"] > *{
 	max-width: 80%;
 }
 
-.signature{
-	font-variant: small-caps;
+section[epub|type~="dedication"] > p{
+	text-align: center;
+	line-height: 180%;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+section[epub|type~="dedication"] b{
+	font-size: 150%;
+	line-height: 200%;
+}
+
+section[epub|type~="dedication"] p + p{
+	padding-left: 10em;
+	text-align: right;
 }
 
 @supports(display: flex){
@@ -64,17 +77,6 @@ section[epub|type~="dedication"] > *{
 	}
 
 	section[epub|type~="dedication"] > *{
-		font-variant: small-caps;
-		line-height: 180%;
 		margin: 0;
-	}
-
-	section[epub|type~="dedication"] > footer{
-		margin-left: auto;
-		margin-top: 1em;
-	}
-
-	section[epub|type~="dedication"] p[epub|type~="recipient"]{
-		font-size: 1.25em;
 	}
 }
