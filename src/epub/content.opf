@@ -195,6 +195,7 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="dedication.xhtml"/>
+		<itemref idref="introductory.xhtml"/>
 		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
@@ -270,7 +271,6 @@
 		<itemref idref="chapter-72.xhtml"/>
 		<itemref idref="chapter-73.xhtml"/>
 		<itemref idref="epilogue.xhtml"/>
-		<itemref idref="introductory.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
