@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/henryk-sienkiewicz/quo-vadis/jeremiah-curtin</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-10-12T22:18:40Z</dc:date>
+		<meta property="dcterms:modified">2020-10-12T22:18:40Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -49,17 +49,18 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85025090</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">This novel depicts the unlikely love story between a Roman patrician, Marcus Vinicius, and a young Christian, Lygia, under the backdrop of Nero’s rule and his cruelty to the Christians in Rome.</dc:description>
+		<dc:description id="description">An unlikely love story between Marcus Vinicius, a Roman patrician, and Lygia, a young Christian, blooms under the backdrop of Nero’s rule in ancient Rome.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Quo Vadis: A Narrative of the Time of Nero&lt;/i&gt; was first published in Polish as &lt;i&gt;Quo vadis. Powieść z czasów Nerona&lt;/i&gt;. &lt;a href="https://standardebooks.org/ebooks/henryk-sienkiewicz/"&gt;Henryk Sienkiewicz&lt;/a&gt; was inspired by, among other things, the painting &lt;i&gt;Nero’s Torch&lt;/i&gt; (&lt;i&gt;Pochodnie Nerona&lt;/i&gt;) by fellow Pole Henryk Siemiradzki; this painting also serves as the cover art for this ebook production. Sienkiewicz incorporated large amount of historical details of the Roman Empire into the plot, and consequently notable historical figures serves as prominent characters, such as the Apostles Simon Peter and Paul of Tarsus, Gaius Petronius Arbiter, Ofonius Tigellinus, and the infamous Roman Emperor Nero himself. Sienkiewicz was awarded the 1905 Nobel Prize in Literature, where his authorship of &lt;i&gt;Quo Vadis&lt;/i&gt; was cited as one of the many reasons for the award. &lt;i&gt;Quo Vadis&lt;/i&gt; was exceedingly popular both domestically and internationally; it was translated into more than 50 languages, sold 800,000 copies in the US within a period of eighteenth months, and was the best selling book of 1900 in France.&lt;/p&gt;
-			&lt;p&gt;The main plot of &lt;i&gt;Quo Vadis&lt;/i&gt; follows the love story between Marcus Vinicius and Lygia. The former a young, charming, and up-and-coming Roman Patrician, while the latter a prisoner-of-war (albeit only under house arrest) following the defeat of her home country by Rome, where she was a princess. Vinicius immediate infatuation towards Lygia is further complicated by Lygia’s devout Christian faith, which was at the time barely tolerated in Rome. Through the development of this romantic plot, Sienkiewicz described in detail the lives of the citizenry under the erratic and cruel rule of Nero. As the painting that inspired the novel foreshadows, the plot took place during the great fire of Rome, where the Christians were blamed for the catastrophe. The subsequent persecution of the Christians in Rome serves as the main obstacle between the two lovers.&lt;/p&gt;
-			&lt;p&gt;Parallel to the romantic plot, Sienkiewicz generally portrays a pro-Christian narrative throughout the book, which the Christian apostles Peter and Paul serving as spiritual mentor of both Vinicius and Lygia. The title of the Novel translates to “Where are you going, Lord?”, which is a quote from the Christian apocryphal text &lt;i&gt;Acts of Peter&lt;/i&gt;, which depicted Peter’s death. The text described while fleeing Rome, Peter asked a vision of Jesus the titular question, to which Jesus replied that he is going to Rome to lead the Christians since Peter, their leader, is deserting them. Peter then realize he must turn back and remain with his people. This, along with Paul’s fate, was depicted in the novel along with the death of Nero, as well as the death Vinicius’s wise but worldly uncle and mentor, Petronius. Sienkiewicz used the character developments and inner monologue of Petronius and Nero, their hedonism and concern for earthly materials to contrast with Vinicius and Lygia’s journal into a deeper faith to their God as well as Peter and Paul’s faithful martyrdom to great effect. As such, the novel is more than just a love story, but a thoughtful reflection of how one’s way of living affects how they see death.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Quo Vadis: A Narrative of the Time of Nero&lt;/i&gt; was first published in Polish as &lt;i&gt;Quo vadis. Powieść z czasów Nerona&lt;/i&gt;. &lt;a href="https://standardebooks.org/ebooks/henryk-sienkiewicz/"&gt;Henryk Sienkiewicz&lt;/a&gt; was inspired by, among other things, the painting &lt;i&gt;Nero’s Torches&lt;/i&gt; (&lt;i&gt;Pochodnie Nerona&lt;/i&gt;) by fellow Pole Henryk Siemiradzki; this painting also serves as the cover art for this ebook edition. Sienkiewicz incorporates large amounts of historical detail into the plot, and consequently notable historical figures serve as prominent characters, like the apostles Simon, Peter, and Paul of Tarsus, Gaius Petronius Arbiter, Ofonius Tigellinus, and the infamous Nero himself. The historical basis of the novel gives Sienkiewicz many opportunities to describe in detail the lives of the citizenry under Nero’s cruel and erratic rule.&lt;/p&gt;
+			&lt;p&gt;Sienkiewicz was awarded the 1905 Nobel Prize in Literature, with his authorship of &lt;i&gt;Quo Vadis&lt;/i&gt; being cited as one of the many reasons for the award. The book was exceedingly popular both domestically and internationally; it was translated into more than 50 languages, sold 800,000 copies in the US within a period of eighteenth months, and was the best selling book of 1900 in France.&lt;/p&gt;
+			&lt;p&gt;The plot of &lt;i&gt;Quo Vadis&lt;/i&gt; follows the love story between Marcus Vinicius and Lygia. The former is a young, charming, up-and-coming Roman patrician, while the latter is a prisoner-of-war (albeit only under house arrest), a former princess of her home country before its defeat by Rome. Vinicius’s immediate infatuation with Lygia is further complicated by Lygia’s devout Christian faith, which was at the time barely tolerated in Rome. As the painting that inspired the novel foreshadows, the novel takes place around the time of the great fire of Rome, for which the Christians received the blame. The subsequent persecution of the Christians in Rome serves as the main obstacle between the two lovers.&lt;/p&gt;
+			&lt;p&gt;Sienkiewicz generally portrays a pro-Christian narrative throughout the book, with the apostles Peter and Paul serving as spiritual mentors to both Vinicius and Lygia. The novel’s title translates to “Where are you going, Lord?”, a quote from the Christian apocryphal text the Acts of Peter, which depicts Peter’s death. The text describes how while fleeing Rome, Peter asks a vision of Jesus the titular question, to which Jesus replies that he returning to Rome to lead the Christians since Peter, their leader, is deserting them. Peter then realize he must turn back and remain with his people. This, along with Paul’s fate, is depicted in &lt;i&gt;Quo Vadis&lt;/i&gt;, along with the deaths of Nero and Petronius, Vinicius’s wise and worldly uncle and mentor. Sienkiewicz uses Petronius’s and Nero’s hedonism to contrast with Vinicius’s and Lygia’s journey to a deeper faith in their God, and with Peter and Paul’s faithful martyrdom, to great effect. As such, the novel is more than just a love story, but a thoughtful reflection on how one’s way of living affects how they see death.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2853</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009025741</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">209394</meta>
+		<meta property="se:reading-ease.flesch">68.6</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Quo_Vadis_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henryk-sienkiewicz_quo-vadis_jeremiah-curtin</meta>
 		<dc:creator id="author">Henryk Sienkiewicz</dc:creator>
@@ -89,16 +90,21 @@
 		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="display-seq" refines="#transcriber-1">2</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer">Matt Chan</dc:contributor>
-		<meta property="file-as" refines="#producer">Chan, Matt</meta>
-		<meta property="se:name.person.full-name" refines="#producer">Matthew Yunho Chan</meta>
-		<meta property="se:url.homepage" refines="#producer">https://github.com/thewchan</meta>
-		<meta property="role" refines="#producer" scheme="marc:relators">bkp</meta>
-		<meta property="role" refines="#producer" scheme="marc:relators">blw</meta>
-		<meta property="role" refines="#producer" scheme="marc:relators">cov</meta>
-		<meta property="role" refines="#producer" scheme="marc:relators">mrk</meta>
-		<meta property="role" refines="#producer" scheme="marc:relators">pfr</meta>
-		<meta property="role" refines="#producer" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-1">Matt Chan</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Chan, Matt</meta>
+		<meta property="se:name.person.full-name" refines="#producer-1">Matthew Yunho Chan</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/thewchan</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
