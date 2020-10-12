@@ -16,6 +16,10 @@ footer{
 	margin-right: 0;
 }
 
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
 [epub|type~="z3998:song"] p{
 	text-align: left;
 	text-indent: 0;
