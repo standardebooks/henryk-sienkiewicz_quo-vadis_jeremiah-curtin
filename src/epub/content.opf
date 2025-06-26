@@ -7,13 +7,13 @@
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org/</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
@@ -50,7 +50,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">An unlikely love story between Marcus Vinicius, a Roman patrician, and Lygia, a young Christian, blooms under the backdrop of Nero’s rule in ancient Rome.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Quo Vadis: A Narrative of the Time of Nero&lt;/i&gt; was first published in Polish as &lt;i&gt;Quo vadis. Powieść z czasów Nerona&lt;/i&gt;. Among &lt;a href="https://standardebooks.org/ebooks/henryk-sienkiewicz/"&gt;Henryk Sienkiewicz’s&lt;/a&gt; inspirations was the painting &lt;i&gt;Nero’s Torches&lt;/i&gt; (&lt;i&gt;Pochodnie Nerona&lt;/i&gt;) by fellow Pole Henryk Siemiradzki; the painting, which depicts cruel persecution of Christians, serves as the cover art for this ebook edition. Sienkiewicz incorporates extensive historical detail into the plot, and notable historical figures serve as prominent characters, including the apostles Simon Peter and Paul of Tarsus, Gaius Petronius Arbiter, Ofonius Tigellinus, and the infamous Nero himself. Sienkiewicz used the historical basis of the novel as an opportunity to describe in detail the lives of the citizenry under Nero’s cruel and erratic rule.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Quo Vadis: A Narrative of the Time of Nero&lt;/i&gt; was first published in Polish as &lt;i&gt;Quo vadis. Powieść z czasów Nerona&lt;/i&gt;. Among &lt;a href="https://standardebooks.org/ebooks/henryk-sienkiewicz"&gt;Henryk Sienkiewicz’s&lt;/a&gt; inspirations was the painting &lt;i&gt;Nero’s Torches&lt;/i&gt; (&lt;i&gt;Pochodnie Nerona&lt;/i&gt;) by fellow Pole Henryk Siemiradzki; the painting, which depicts cruel persecution of Christians, serves as the cover art for this ebook edition. Sienkiewicz incorporates extensive historical detail into the plot, and notable historical figures serve as prominent characters, including the apostles Simon Peter and Paul of Tarsus, Gaius Petronius Arbiter, Ofonius Tigellinus, and the infamous Nero himself. Sienkiewicz used the historical basis of the novel as an opportunity to describe in detail the lives of the citizenry under Nero’s cruel and erratic rule.&lt;/p&gt;
 			&lt;p&gt;Sienkiewicz was awarded the 1905 Nobel Prize in Literature in part for his authorship of &lt;i&gt;Quo Vadis&lt;/i&gt;. The book was exceedingly popular both domestically and internationally: it was translated into more than 50 languages, sold 800,000 copies in the U.S. within a period of eighteenth months, and was the best selling book of 1900 in France.&lt;/p&gt;
 			&lt;p&gt;The plot of &lt;i&gt;Quo Vadis&lt;/i&gt; follows the love story of Marcus Vinicius and Lygia. He is a young, charming, up-and-coming Roman patrician; she is a high-ranking hostage, a former princess of a country conquered by Rome. Vinicius’s immediate infatuation with Lygia is complicated by her devout Christianity, a faith barely tolerated in Rome of the time. As the painting that inspired the novel foreshadows, Rome burns in a great fire, and Christians receive the blame. The subsequent persecution of the Christians in Rome serves as the main obstacle between the two lovers.&lt;/p&gt;
 			&lt;p&gt;Sienkiewicz portrays a pro-Christian narrative throughout the book, with the apostles Peter and Paul serving as spiritual mentors to both Vinicius and Lygia. The novel’s title translates to “Where are you going, Lord?”, a quote from the apocryphal Christian text the Acts of Peter, which depicts Peter’s death. The text describes how while fleeing Rome, Peter asks a vision of Jesus the titular question, to which Jesus replies that he is returning to Rome to lead the Christians since Peter, their leader, is deserting them. Peter then realizes he must turn back and remain with his people, despite the cost. &lt;i&gt;Quo Vadis&lt;/i&gt; depicts this exchange, along with Paul’s fate and the deaths of Nero and Petronius, Vinicius’s wise and worldly uncle and mentor. Sienkiewicz contrasts Petronius’s and Nero’s hedonism with Vinicius’s and Lygia’s journey to a deeper faith in their God, and with Peter and Paul’s faithful martyrdom, to great effect. As such, the novel is not just a love story, but also a thoughtful reflection on how one’s way of living affects how they see death.&lt;/p&gt;
@@ -100,7 +100,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
-		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com/</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
