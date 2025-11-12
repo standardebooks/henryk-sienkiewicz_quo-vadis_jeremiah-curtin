@@ -74,8 +74,8 @@
 		<meta property="file-as" refines="#translator">Curtin, Jeremiah</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Jeremiah_Curtin</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n50018558</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Henryk Siemiradzki</dc:contributor>
 		<meta property="file-as" refines="#artist">Siemiradzki, Henryk</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Henryk Hektor Siemiradzki</meta>
