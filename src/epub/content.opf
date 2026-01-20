@@ -59,7 +59,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2853</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009025741</dc:source>
-		<meta property="se:word-count">209382</meta>
+		<meta property="se:word-count">208769</meta>
 		<meta property="se:reading-ease.flesch">68.6</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Quo_Vadis_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henryk-sienkiewicz_quo-vadis_jeremiah-curtin</meta>
