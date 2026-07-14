@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Quo Vadis: A Narrative of the Time of Nero</dc:title>
 		<meta property="file-as" refines="#fulltitle">Quo Vadis: A Narrative of the Time of Nero</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<dc:subject id="subject-2">Church history -- Primitive and early church, ca. 30-600 -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Rome -- History -- Nero, 54-68 -- Fiction</dc:subject>
