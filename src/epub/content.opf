@@ -38,8 +38,8 @@
 		<meta property="file-as" refines="#fulltitle">Quo Vadis: A Narrative of the Time of Nero</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
-		<dc:subject id="subject-2">Church history -- Primitive and early church, ca. 30-600 -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Rome -- History -- Nero, 54-68 -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Church history--Primitive and early church, ca. 30-600--Fiction</dc:subject>
+		<dc:subject id="subject-3">Rome--History--Nero, 54-68--Fiction</dc:subject>
 		<dc:subject id="subject-4">Christian fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85061165</meta>
