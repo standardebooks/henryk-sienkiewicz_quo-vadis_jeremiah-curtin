@@ -67,7 +67,7 @@ section[epub|type~="dedication"] p + p{
 	text-align: right;
 }
 
-@supports(display: flex){
+@supports(display: flex) and (min-height: calc(98vh - 3em)){
 	section[epub|type~="dedication"]{
 		align-items: center;
 		box-sizing: border-box;
